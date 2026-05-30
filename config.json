@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailralidate",
+        "uuid": 6638900,
+        "checksum": "n2bm3o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
